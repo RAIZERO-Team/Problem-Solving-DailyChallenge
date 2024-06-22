@@ -1,0 +1,424 @@
+{
+  "Phase 1": {
+    "Week 1": [
+      {
+        "day": "01",
+        "title": "Watermelon"
+      },
+      {
+        "day": "02",
+        "title": "Sort Numbers"
+      },
+      {
+        "day": "03",
+        "title": "The last 2 digits"
+      },
+      {
+        "day": "04",
+        "title": "Bit++"
+      },
+      {
+        "day": "05",
+        "title": "Coordinates of a Point"
+      },
+      {
+        "day": "06",
+        "title": "Way Too Long Words"
+      }
+    ],
+    "Week 2": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 3": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 4": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ]
+  },
+  "Phase 2": {
+    "Week 1": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 2": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 3": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 4": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 5": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 6": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 7": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 8": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ]
+  },
+  "Phase 3": {
+    "Week 1": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 2": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 3": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ],
+    "Week 4": [
+      {
+        "day": "01",
+        "title": ""
+      },
+      {
+        "day": "02",
+        "title": ""
+      },
+      {
+        "day": "03",
+        "title": ""
+      },
+      {
+        "day": "04",
+        "title": ""
+      },
+      {
+        "day": "05",
+        "title": ""
+      },
+      {
+        "day": "06",
+        "title": ""
+      }
+    ]
+  }
+}
