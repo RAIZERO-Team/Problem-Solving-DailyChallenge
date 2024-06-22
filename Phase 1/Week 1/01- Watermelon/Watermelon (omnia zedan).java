@@ -16,4 +16,4 @@ public class Watermelon {
             System.out.println("no");
     }
     
-}
+};
