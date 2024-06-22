@@ -1,4 +1,4 @@
-// Author : Karol Hany 
+// Author: Karol Hany 
 
 #include <iostream>
 using namespace std;
