@@ -1,4 +1,4 @@
-// Author : Reem Ezzat
+// Author: Reem Ezzat
 
 import java.util.Scanner;
 
