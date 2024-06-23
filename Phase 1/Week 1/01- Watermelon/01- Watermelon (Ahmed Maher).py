@@ -1,4 +1,4 @@
-# Author : Ahmed Maher
+# Author: Ahmed Maher
 
 w = int(input())
 
