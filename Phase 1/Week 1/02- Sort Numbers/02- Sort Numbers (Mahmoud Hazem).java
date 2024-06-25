@@ -7,7 +7,7 @@ import static java.util.Arrays.sort;
 import java.util.Scanner;
 
 
-public class sortNumbers {
+public class sortNumbers { 
 
     public static void main(String[] args) {
         Scanner input= new Scanner(System.in);
