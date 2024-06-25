@@ -62,27 +62,27 @@ int main()
 /*
 #include <iostream>
 #include <algorithm>
-
+using namespace std;
 int main()
 {
   int A, B, C;
-  std::cin >> A >> B >> C;
+  cin >> A >> B >> C;
 
   int arr1[3] = {A, B, C};
 
   int arr2[3] = {A, B, C};
-  std::sort(arr1, arr2 + 3);
+  sort(arr2, arr1 + 3);
 
   for (int i = 0; i < 3; ++i)
   {
-    std::cout << arr2[i] << std::endl;
+    cout << arr2[i] << endl;
   }
 
-  std::cout << std::endl;
+ cout << endl;
 
   for (int i = 0; i < 3; ++i)
   {
-    std::cout << arr1[i] << std::endl;
+    cout << arr1[i] << endl;
   }
 
   return 0;
