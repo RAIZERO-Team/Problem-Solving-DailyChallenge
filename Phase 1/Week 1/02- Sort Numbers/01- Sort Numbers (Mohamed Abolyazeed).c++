@@ -58,3 +58,34 @@ int main()
        << num3 << endl;
   return 0;
 }
+
+/*
+#include <iostream>
+#include <algorithm>
+
+int main()
+{
+  int A, B, C;
+  std::cin >> A >> B >> C;
+
+  int arr1[3] = {A, B, C};
+
+  int arr2[3] = {A, B, C};
+  std::sort(arr1, arr2 + 3);
+
+  for (int i = 0; i < 3; ++i)
+  {
+    std::cout << arr2[i] << std::endl;
+  }
+
+  std::cout << std::endl;
+
+  for (int i = 0; i < 3; ++i)
+  {
+    std::cout << arr1[i] << std::endl;
+  }
+
+  return 0;
+}
+
+*/
