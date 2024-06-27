@@ -8,3 +8,4 @@ for i in range(n):
         print(st)
     else:
         print(f"{st[0]}{len(st) - 2}{st[-1]}")
+
