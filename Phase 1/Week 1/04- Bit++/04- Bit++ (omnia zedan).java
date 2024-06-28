@@ -1,4 +1,4 @@
-//Auther : omnia zeedan
+//Author : omnia zeedan
 import java.util.Scanner;
 
 /**
