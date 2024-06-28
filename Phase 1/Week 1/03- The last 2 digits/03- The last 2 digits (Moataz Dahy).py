@@ -1,4 +1,4 @@
-# Author Moataz Dahy 
+# Author: Moataz Dahy 
 A, B, C , D = map(int, input().split())
  
 numbers = [A, B, C, D]

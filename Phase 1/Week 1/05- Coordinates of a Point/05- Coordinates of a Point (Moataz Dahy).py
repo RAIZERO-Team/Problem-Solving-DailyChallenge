@@ -1,4 +1,4 @@
-# Author Moataz Dahy
+# Author: Moataz Dahy
 data = input().split()
 A = float(data[0])
 B = float(data[1])

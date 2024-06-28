@@ -1,5 +1,5 @@
 
-     #  // Author: Abdalla Mohamed #
+     # Author: Abdalla Mohamed #
 
 num1 = int(input());num2 = int(input());num3 = int(input())
 

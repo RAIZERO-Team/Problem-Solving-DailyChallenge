@@ -1,4 +1,4 @@
-# Author Mohamed Khalifa 
+# Author: Mohamed Khalifa 
 n = int(input())
 count = 0 
 for i in range(n):

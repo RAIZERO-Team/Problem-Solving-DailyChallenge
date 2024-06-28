@@ -1,4 +1,4 @@
-#Author Moataz Dahy
+#Author: Moataz Dahy
 
 n = int(input())
 values = []

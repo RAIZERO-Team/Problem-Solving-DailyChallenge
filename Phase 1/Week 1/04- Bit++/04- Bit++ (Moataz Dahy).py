@@ -1,4 +1,4 @@
-# Author Moataz Dahy
+# Author: Moataz Dahy
 n = int(input())
 x = 0
 count = 0
