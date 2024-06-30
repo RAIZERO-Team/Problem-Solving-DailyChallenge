@@ -1,4 +1,4 @@
-//Author: basmala mohamed
+//Author : basmalla
 
 import java.util.Scanner;
 
