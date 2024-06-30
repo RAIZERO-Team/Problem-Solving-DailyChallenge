@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+//Author : Yasmeen asaad
+>>>>>>> d13f349a9b2c5d289158bd0182058eed1f9be43c
 
 import java.util.Scanner;
 public class ps {
