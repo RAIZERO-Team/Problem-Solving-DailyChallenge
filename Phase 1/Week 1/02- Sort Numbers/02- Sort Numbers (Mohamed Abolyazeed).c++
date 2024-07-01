@@ -5,11 +5,11 @@ using namespace std;
 
 int main()
 {
-  int A, B, C;
-  cin >> A >> B >> C;
+  int num1, num2, num3;
+  cin >> num1 >> num2 >> num3;
 
-  int arr1[3] = {A, B, C};
-  int arr2[3] = {A, B, C};
+  int arr1[3] = {num1, num2, num3};
+  int arr2[3] = {num1, num2, num3};
 
   sort(arr2, arr2 + 3);
 
