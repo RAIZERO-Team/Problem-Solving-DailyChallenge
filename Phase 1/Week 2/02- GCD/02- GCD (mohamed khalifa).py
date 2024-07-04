@@ -1,3 +1,5 @@
+# Author: Mohamed Khalifa
+
 a , b = map(int , input().split())
 min = a if a < b else b
 
