@@ -1,4 +1,4 @@
-// Author Abolyazeed
+// Author: Abolyazeed
 #include <iostream>
 using namespace std;
 
