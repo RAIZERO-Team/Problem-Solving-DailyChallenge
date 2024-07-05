@@ -2,105 +2,113 @@
   "Phase 1": {
     "Week 1": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": "Watermelon"
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": "Sort Numbers"
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": "The last 2 digits"
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": "Bit++"
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": "Coordinates of a Point"
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": "Way Too Long Words"
       }
     ],
     "Week 2": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": "Even, Odd, Positive and Negative"
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": "GCD"
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": "Bear and Big Brother"
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": "Easy Fibonacci"
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": "Anton and Danik"
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": "Three Numbers"
       }
     ],
     "Week 3": [
       {
-        "day": "01",
-        "title": ""
+        "problemNum": "01",
+        "title": "Searching"
       },
       {
-        "day": "02",
-        "title": ""
+        "problemNum": "02",
+        "title": "Stones on the Table"
       },
       {
-        "day": "03",
-        "title": ""
+        "problemNum": "03",
+        "title": "Sorting"
       },
       {
-        "day": "04",
-        "title": ""
+        "problemNum": "04",
+        "title": "Word"
       },
       {
-        "day": "05",
-        "title": ""
+        "problemNum": "05",
+        "title": "Check Code"
       },
       {
-        "day": "06",
-        "title": ""
+        "problemNum": "06",
+        "title": "Sereja and Dima"
+      },
+      {
+        "problemNum": "07",
+        "title": "Binary Search"
+      },
+      {
+        "problemNum": "08",
+        "title": "Magnets"
       }
     ],
     "Week 4": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ]
@@ -108,209 +116,209 @@
   "Phase 2": {
     "Week 1": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 2": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 3": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 4": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 5": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 6": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 7": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 8": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ]
@@ -318,105 +326,105 @@
   "Phase 3": {
     "Week 1": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 2": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 3": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ],
     "Week 4": [
       {
-        "day": "01",
+        "problemNum": "01",
         "title": ""
       },
       {
-        "day": "02",
+        "problemNum": "02",
         "title": ""
       },
       {
-        "day": "03",
+        "problemNum": "03",
         "title": ""
       },
       {
-        "day": "04",
+        "problemNum": "04",
         "title": ""
       },
       {
-        "day": "05",
+        "problemNum": "05",
         "title": ""
       },
       {
-        "day": "06",
+        "problemNum": "06",
         "title": ""
       }
     ]
