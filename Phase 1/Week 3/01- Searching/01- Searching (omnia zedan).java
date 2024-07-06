@@ -24,7 +24,7 @@ public class Searching {
              break; 
             }}
          if(val == false)
-          System.out.println(" -1");
+          System.out.println(" -1 ");
 
     }
 }
