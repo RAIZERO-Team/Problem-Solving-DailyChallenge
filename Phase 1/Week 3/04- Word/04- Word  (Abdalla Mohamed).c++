@@ -3,8 +3,6 @@
 #include <string>
 #include<math.h>
 using namespace std;
-
-
 int main()
 {
     string n;int lower=0,upper=0;;
