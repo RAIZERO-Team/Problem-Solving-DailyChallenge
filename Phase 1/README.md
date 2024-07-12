@@ -35,12 +35,12 @@
 
 #### Week 4: Consolidation and Team Feedback
 
-1. **problemNum 1**: []()
-2. **problemNum 2**: []()
-3. **problemNum 3**: []()
-4. **problemNum 4**: []()
-5. **problemNum 5**: []()
-6. **problemNum 6**: []()
+1. **problemNum 1**: [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)
+2. **problemNum 2**: [Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)
+3. **problemNum 3**: [Reverse Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Q)
+4. **problemNum 4**: [Wonderful Number](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C)
+5. **problemNum 5**: [Prime Function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D)
+6. **problemNum 6**: [Maximum Distinct Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/E)
 
 #### Week 4: Review and Discussion
 - **problemNum 7**: Team discussion and feedback session. Review problems, discuss solutions, and address any gaps in understanding.
