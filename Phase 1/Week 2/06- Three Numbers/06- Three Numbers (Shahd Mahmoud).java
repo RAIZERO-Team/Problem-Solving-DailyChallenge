@@ -1,4 +1,4 @@
-//Author Shahd Mahmoud
+//Author: Shahd Mahmoud
 package three.numbers;
 
 import java.util.Scanner;
