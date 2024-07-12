@@ -1,4 +1,4 @@
-# Authot Moataz Dahy 
+# Authot: Moataz Dahy 
 
 N = int(input())
 A = str(input())

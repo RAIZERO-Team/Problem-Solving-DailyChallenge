@@ -1,4 +1,4 @@
-# Author Moataz Dahy
+# Author: Moataz Dahy
 N = int(input())
 n1 = 0
 n2 = 1
