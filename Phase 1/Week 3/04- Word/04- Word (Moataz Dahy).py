@@ -1,4 +1,4 @@
-#Author : Moataz Dahy
+# Author: Moataz Dahy
 
 s = input().strip()
 

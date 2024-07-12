@@ -1,4 +1,4 @@
-# Author : Moataz Dahy
+# Author: Moataz Dahy
 
 A, B = map(int, input().split())
 S = input().strip()
