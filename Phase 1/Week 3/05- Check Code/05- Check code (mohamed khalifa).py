@@ -1,4 +1,4 @@
-# Author : Mohamed Khalifa 
+# Author: Mohamed Khalifa 
 
 a ,  b = map(int , input().split())
 code = input()
