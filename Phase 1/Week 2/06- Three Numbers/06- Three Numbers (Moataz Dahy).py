@@ -1,4 +1,4 @@
-# Author Moataz Dahy
+# Author: Moataz Dahy
 
 k, S = map(int, input().split())
 
