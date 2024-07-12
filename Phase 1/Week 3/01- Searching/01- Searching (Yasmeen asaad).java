@@ -1,4 +1,4 @@
-//Author :Yasmeen asaad
+//Author: Yasmeen asaad
 
 import java.util.Scanner;
 
