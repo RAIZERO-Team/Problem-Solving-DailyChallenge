@@ -1,3 +1,5 @@
+# Author : Mohamed Khalifa 
+
 string = input()
 uppercase_letters = sum(1 for i in string if i.isupper())   
 lowercase_letters = sum(1 for i in string if i.islower())  

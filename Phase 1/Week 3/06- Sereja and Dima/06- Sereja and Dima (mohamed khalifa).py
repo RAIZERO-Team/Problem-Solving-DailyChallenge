@@ -1,3 +1,5 @@
+# Author : Mohamed Khalifa 
+
 size = int(input())
 cards = list(map(int , input().split()))
 sereja  , dima = 0 , 0

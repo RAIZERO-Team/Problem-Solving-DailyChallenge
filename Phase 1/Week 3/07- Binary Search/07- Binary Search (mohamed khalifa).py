@@ -1,3 +1,5 @@
+# Author : Mohamed Khalifa 
+
 def binarySearch(list , target):
     start , end = 0 , len(list)-1
     while start <= end : 

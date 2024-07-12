@@ -1,4 +1,4 @@
-# author : mohaemd khalifa
+# Author : Mohamed Khalifa 
 
 n , arr = int(input()) , list(map(int , input().split()))
 

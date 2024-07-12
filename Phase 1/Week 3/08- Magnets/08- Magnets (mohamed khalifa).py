@@ -1,3 +1,5 @@
+# Author : Mohamed Khalifa 
+
 n = int(input())
 num_of_groups = 1 
 magnets = input()
