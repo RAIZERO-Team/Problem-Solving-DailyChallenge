@@ -1,4 +1,4 @@
-#Author Moataz Rashwan
+#Author: Moataz Rashwan
 
 n = int(input())
 x = list(map(int,input().split()))

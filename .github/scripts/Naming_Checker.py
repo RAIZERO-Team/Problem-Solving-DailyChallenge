@@ -83,7 +83,7 @@ def check_daily_folders(phase_folder, week_folder):
         parts = folder.split(" ")
         parts[0] = parts[0][:-1]
 
-        problem = {"day": parts[0], "title": " ".join(parts[1:])}
+        problem = {"problemNum": parts[0], "title": " ".join(parts[1:])}
 
         if problem not in week_data:
             print(f"Day folder {folder} name is not valid")

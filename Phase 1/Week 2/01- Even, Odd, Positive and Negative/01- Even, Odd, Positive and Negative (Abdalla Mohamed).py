@@ -1,4 +1,4 @@
-#Auther : Abdalla Mohamed #
+# Author : Abdalla Mohamed #
 n = int(input())
 e = 0
 o = 0
