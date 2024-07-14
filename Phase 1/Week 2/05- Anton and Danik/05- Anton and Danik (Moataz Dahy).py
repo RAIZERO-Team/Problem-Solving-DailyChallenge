@@ -1,4 +1,4 @@
-# Authot Moataz Dahy 
+# Author: Moataz Dahy 
 
 N = int(input())
 A = str(input())

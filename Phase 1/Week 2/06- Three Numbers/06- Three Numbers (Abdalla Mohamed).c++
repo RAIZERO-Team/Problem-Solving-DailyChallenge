@@ -1,3 +1,5 @@
+// Author: Abdalla Mohammed
+
 #include <iostream>
 #include<algorithm>
 #include<string>
