@@ -1,4 +1,4 @@
-# Moataz Dahy
+# Author: Moataz Dahy
 
 N = int(input())
 A = list(map(int, input().split()))

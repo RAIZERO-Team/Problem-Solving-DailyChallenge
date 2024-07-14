@@ -1,4 +1,4 @@
-# Author Moataz Rashwan
+# Author: Moataz Rashwan
 
 import math
 
