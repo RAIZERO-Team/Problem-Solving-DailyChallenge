@@ -17,7 +17,7 @@ public class  Magnets {
        for(int i=0;i<arr.length;i++){
            arr[i]=in.next();
        } 
-       int fristnum;
+      
        int numofgroups=1;
        for(int j=0;j<arr.length-1;j++){
            if(!arr[j].equals(arr[j + 1]))
