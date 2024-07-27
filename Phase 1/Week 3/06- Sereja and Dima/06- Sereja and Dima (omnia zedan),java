@@ -1,0 +1,42 @@
+// Author :omnia zedan
+import java.util.Scanner;
+/**
+ *
+ * @author 3M.T
+ */
+public class SortNumbers {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Scanner in = new Scanner(System.in);
+       
+  int n=in.nextInt();
+  int serejascore = 0;
+    int dimascore = 0;
+    int right=n-1;
+    int left=0;
+  int arr[]=new int[n];
+  for(int i=0;i<arr.length;i++){
+      arr[i]=in.nextInt();
+  }
+  for(int i=0;left<=right;i++){
+      int takecard;
+      if(arr[left]>=arr[right]){
+          takecard=arr[left];
+          left++;
+      }else{
+          takecard=arr[right];
+          right--;
+      }
+      if(i%2==0){
+        serejascore += takecard; 
+  }else{
+  dimascore +=takecard;
+    }
+} 
+  System.out.println( serejascore +" "+dimascore );
+    } 
+}
