@@ -1,3 +1,4 @@
+#  Author : mohamed khalifa
 def prime(number) : 
     if number in (0 , 1)  : return False  
     if number == 2 : return True 
