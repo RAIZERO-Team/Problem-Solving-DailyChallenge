@@ -15,12 +15,11 @@
 
 #### Week 2
 
-1. **problemNum 1**: []()
-2. **problemNum 2**: []()
-3. **problemNum 3**: []()
-4. **problemNum 4**: []()
-5. **problemNum 5**: []()
-6. **problemNum 6**: []()
+1. **problemNum 1**: [Easy task](https://codeforces.com/group/mk7Cz9V8Hm/contest/323830/problem/A)
+2. **problemNum 2**: [Come to Baba](https://codeforces.com/group/mk7Cz9V8Hm/contest/323649/problem/B)
+3. **problemNum 3**: [Sum of Range](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/C)
+4. **problemNum 4**: [Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D)
+5. **problemNum 5**: [George and Accommodation](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/E)
 
 #### Week 3
 
