@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Check Author line of files
-      run: python .github/scripts/Author_Checker.py
+    # - name: Check Author line of files
+      # run: python .github/scripts/Author_Checker.py

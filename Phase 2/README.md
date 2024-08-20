@@ -23,21 +23,14 @@
 
 #### Week 3
 
-1. **problemNum 1**: []()
-2. **problemNum 2**: []()
-3. **problemNum 3**: []()
-4. **problemNum 4**: []()
-5. **problemNum 5**: []()
-6. **problemNum 6**: []()
+1. **problemNum 1**: [Hit the Lottery](https://codeforces.com/problemset/problem/996/A)
+2. **problemNum 2**: [Young Physicist](https://codeforces.com/problemset/problem/996/A)
+3. **problemNum 3**: [Sereja and Dima](https://codeforces.com/problemset/problem/996/A)
 
 #### Week 4
 
 1. **problemNum 1**: []()
 2. **problemNum 2**: []()
-3. **problemNum 3**: []()
-4. **problemNum 4**: []()
-5. **problemNum 5**: []()
-6. **problemNum 6**: []()
 
 #### Week 5
 
@@ -45,8 +38,6 @@
 2. **problemNum 2**: []()
 3. **problemNum 3**: []()
 4. **problemNum 4**: []()
-5. **problemNum 5**: []()
-6. **problemNum 6**: []()
 
 #### Week 6
 
